@@ -1,0 +1,20 @@
+{
+    "channel_name": "mychannel",
+    "smart_contract_name": "blockchain-for-maintaining-digital-assets",
+    "connection_file": "profile.json",
+    "appAdmin": "app-admin",
+    "appAdminSecret": "app-adminpw",
+    "orgMSPID": "Org1MSP",
+    "caName": "184.172.214.93:32358",
+    "peerName": "184.172.214.93:32178",
+    "gatewayDiscovery": { "enabled": true, "asLocalhost": false },
+    "smtpHost": "smtp.mailtrap.io",
+    "smtpPort": 2525,
+    "smtpUserName": "5fac4ba53420b8",
+    "smtpPassword": "c7840464469dac",
+    "senderEmail": "no-reply-devTest@esbpcs.me",
+    "cos_endpoint": "s3.ap.cloud-object-storage.appdomain.cloud",
+    "cos_apiKeyId": "Cs_taxAY9Gl0DX6Fn10D1zvtBg7uipWHiq8najSUnTUi",
+    "cos_serviceInstanceId": "crn:v1:bluemix:public:cloud-object-storage:global:a/d3baae91d70242e59a346b5642764988:352b66f9-f906-4458-9d79-03d147bb9cb8::",
+    "cos_bucketName": "BPT"
+ }
