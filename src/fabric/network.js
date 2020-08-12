@@ -6,7 +6,7 @@ const path = require('path');
 const fs = require('fs');
 const AWS = require('ibm-cos-sdk');
 const nodemailer = require('nodemailer');
-const uuidv1 = require('uuid/v1');
+const uuidv1 = require('uuid');
 const hasha = require('hasha');
 
 //connect to the config file
